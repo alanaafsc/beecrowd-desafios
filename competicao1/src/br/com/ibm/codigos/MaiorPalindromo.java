@@ -2,7 +2,6 @@ package br.com.ibm.codigos;
 
 import java.io.IOException;
 
-
 public class MaiorPalindromo {
 
 	public static void main (String[] args) throws IOException {
@@ -63,5 +62,4 @@ public class MaiorPalindromo {
 	
 }
 
-	
 	
