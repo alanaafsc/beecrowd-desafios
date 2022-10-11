@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
  *      Class name must be "Main" for your solution to execute
  *      El nombre de la clase debe ser "Main" para que su solución ejecutar
  */
-public class EsquerdaVolver1 {
+public class EsquerdaVolver {
  
 	public static void main(String[] args) throws IOException {
 		try(BufferedReader br = new BufferedReader(new InputStreamReader(System.in))){
